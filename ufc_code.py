@@ -47,7 +47,8 @@ events_df
 
 fight_urls = []
 fighters = []
-
+fights = []
+new_fights = []
 
 for item in soup.find_all('tr', class_='b-fight-details__table-row b-fight-details__table-row__hover js-fight-details-click'):
     fight_urls.append(item['data-link'])
@@ -55,4 +56,12 @@ for item in soup.find_all('tr', class_='b-fight-details__table-row b-fight-detai
 for item in match:
     fighters.append(item.text.strip())
     
-print(fighters)
+for item in fighters:
+    fights.append(item.split(' '))
+    
+for fight in fights:
+    new_fights.append(' '.join(fight[-3:]))
+    
+fights_df = pd.DataFrame({'bout': new_fights, 'url': fight_urls})
+
+fights_df['event'] = soup.find('h2', class_='b-content__title').text.strip()
