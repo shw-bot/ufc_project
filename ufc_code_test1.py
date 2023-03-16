@@ -1,19 +1,21 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Mar 14 22:52:13 2023
+Created on Thu Mar 16 16:07:28 2023
 
 @author: cinshalewolfe
 """
-import pandas as pd
 import requests
 from bs4 import BeautifulSoup
+import pandas as pd
 
 #soupy time
 url = 'http://ufcstats.com/statistics/events/completed?page=all'
-
 r = requests.get(url)
+data = r.text
 soup = BeautifulSoup(r.content, 'html.parser')
 
+
+###########################
 #create a dataframe with info from events page
 
 main_event = []
@@ -39,27 +41,24 @@ dates = date[1:]
 locations = locations[1:]
     
 events_df = pd.DataFrame({'Main Event': main_event, 'Date': dates, 'Location': locations, 'URL': urls})
-  
-#print df  
-events_df
+    
+events_df  
+events_df['URL'][0]
 
-#create a df from the individual fights
 
-fight_urls = []
-fighters = []
-fights = []
-new_fights = []
 
-for item in soup.find_all('tr', class_='b-fight-details__table-row b-fight-details__table-row__hover js-fight-details-click'):
-    fight_urls.append(item['data-link'])
-    
-for item in match:
-    fighters.append(item.text.strip())
-    
-for item in fighters:
-    fights.append(item.split(' '))
-    
-for fight in fights:
-    new_fights.append(' '.join(fight[-3:]))
-    
-print(fight_urls)
+####################
+testing_urls = []
+my_urls = []
+for index, row in events_df.iterrows():
+    testing_urls.append(f"{row['URL']}")
+for item in testing_urls:
+    page = requests.get(item)
+    data = page.text
+    soup = BeautifulSoup(data, 'html.parser')
+    test = soup.find_all('tr',class_='b-fight-details__table-row b-fight-details__table-row__hover js-fight-details-click')
+
+    for x in test:
+        my_urls.append(item[0])
+        
+print(my_urls)
