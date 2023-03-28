@@ -1,0 +1,47 @@
+import requests
+from bs4 import BeautifulSoup
+import pandas as pd
+
+url = "http://ufcstats.com/statistics/events/completed?page=all"
+
+# Create an empty list to store the dictionaries for each fight
+fight_data = []
+
+# Send an HTTP request to the URL and retrieve the HTML content of the page
+response = requests.get(url)
+html_content = response.content
+
+# Use BeautifulSoup to parse the HTML content and extract the URLs of each event
+soup = BeautifulSoup(html_content, "html.parser")
+event_links = soup.find_all("a", class_="b-link b-link_style_black")
+
+# Loop through each event URL and extract the tables
+for link in event_links:
+    event_url = link.get("href")
+    event_response = requests.get(event_url)
+    event_html_content = event_response.content
+    event_soup = BeautifulSoup(event_html_content, "html.parser")
+
+    # Extract the tables from the event page using BeautifulSoup
+    tables = event_soup.find_all("table")
+
+    # Loop through each table and extract the rows for each fight
+    for table in tables:
+        rows = table.find_all("tr")[1:]  # Ignore the header row
+
+        # Loop through each row and extract the data for each fight
+        for row in rows:
+            data = row.find_all("td")
+            fighter1 = data[0].get_text().strip()
+            fighter2 = data[1].get_text().strip()
+            result = data[2].get_text().strip()
+            method = data[3].get_text().strip()
+            round_time = data[4].get_text().strip()
+            fight_info = {"fighter1": fighter1, "fighter2": fighter2, "result": result, "method": method, "round_time": round_time}
+            fight_data.append(fight_info)
+
+# Create a dataframe from the list of fight dictionaries
+fights_df = pd.DataFrame(fight_data)
+
+# Print the first few rows of the fights dataframe
+print(fights_df.head())
