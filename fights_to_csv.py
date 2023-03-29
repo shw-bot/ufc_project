@@ -34,4 +34,4 @@ for link in event_links:
 
 fights_df = pd.concat(fights_dfs, ignore_index=True)  # concatenate all data frames into one
 
-fights_df.to_csv(r'C:\Users\cinshalewolfe\Desktop\ufc project\Data\fights.csv', index=False)
+fights_df.to_csv(r'C:\Users\cinshalewolfe\Desktop\ufc project\raw_data\fights.csv', index=False)

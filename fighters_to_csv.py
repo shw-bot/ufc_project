@@ -34,4 +34,4 @@ for link in links:
     
     fighters_df = pd.concat([fighters_df, df], ignore_index=True)
     
-fighters_df.to_csv(r'C:\Users\cinshalewolfe\Desktop\ufc project\Data\fighters.csv', index=False)
+fighters_df.to_csv(r'C:\Users\cinshalewolfe\Desktop\ufc project\raw_data\fighters.csv', index=False)
