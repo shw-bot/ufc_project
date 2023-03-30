@@ -28,7 +28,7 @@ fights['winner'] = np.where(fights['w/l'] == 'win', fights['fighter1'], 'draw')
 fights = fights.drop('w/l', axis=1)
 
 # show the fights df
-fights.head()
+fights.to_csv(r'C:\Users\cinshalewolfe\Desktop\ufc project\clean_data\fights_cleaned.csv')
 
 ###
 
@@ -82,5 +82,7 @@ fighters['Wt.'] = fighters['Wt.'].str.replace(' lbs.', '').astype(float)
 # drop other empty rows
 fighters = fighters.dropna()
 
+
 # print the fighters df
-fighters.head()
+fighters.to_csv(r'C:\Users\cinshalewolfe\Desktop\ufc project\clean_data\fighters_cleaned.csv')
+

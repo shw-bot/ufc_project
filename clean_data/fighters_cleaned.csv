@@ -1,0 +1,602 @@
+,First,Last,Nickname,Ht.,Wt.,Reach,Stance,W,L,D
+1,Tom,Aaron,,70,155.0,71,Unknown,5.0,3.0,0.0
+2,Danny,Abbadi,The Assassin,71,155.0,71,Orthodox,4.0,6.0,0.0
+3,Nariman,Abbasov,Bayraktar,68,155.0,66,Orthodox,28.0,4.0,0.0
+4,David,Abbott,Tank,72,265.0,71,Switch,10.0,15.0,0.0
+5,Hamdy,Abdelwahab,The Hammer,74,264.0,72,Southpaw,5.0,0.0,0.0
+6,Shamil,Abdurakhimov,Abrek,75,235.0,76,Orthodox,20.0,8.0,0.0
+7,Hiroyuki,Abe,Abe Ani,66,145.0,71,Orthodox,8.0,15.0,3.0
+8,Daichi,Abe,,71,170.0,71,Orthodox,6.0,2.0,0.0
+9,Papy,Abedi,Makambo,71,185.0,71,Southpaw,10.0,4.0,0.0
+10,Ricardo,Abreu,Demente,71,185.0,71,Orthodox,5.0,1.0,0.0
+11,Klidson,Abreu,White Bear,72,205.0,74,Orthodox,15.0,4.0,0.0
+12,Daniel,Acacio,,68,180.0,71,Orthodox,30.0,18.0,0.0
+13,John,Adajar,The Outlaw,69,170.0,75,Orthodox,6.0,2.0,0.0
+14,Scott,Adams,,72,225.0,71,Southpaw,8.0,1.0,0.0
+15,Juan,Adams,The Kraken,77,265.0,80,Orthodox,5.0,3.0,0.0
+16,Anthony,Adams,Sugafoot,73,185.0,76,Orthodox,8.0,2.0,0.0
+17,Zarrukh,Adashev,The Lion,65,125.0,65,Southpaw,4.0,4.0,0.0
+18,Israel,Adesanya,The Last Stylebender,76,185.0,80,Switch,23.0,2.0,0.0
+19,Sam,Adkins,The Experience,75,225.0,71,Orthodox,7.0,20.0,2.0
+20,Nick,Agallar,,68,155.0,71,Orthodox,24.0,6.0,0.0
+21,Mariya,Agapova,Demonslayer,66,125.0,68,Southpaw,10.0,4.0,0.0
+22,Marcelo,Aguiar,,70,170.0,71,Orthodox,2.0,3.0,1.0
+23,Fabio,Aguiar,,72,185.0,71,Unknown,17.0,1.0,0.0
+24,Edwin,Aguilar,Tigre,70,185.0,71,Unknown,26.0,19.0,0.0
+25,Jessica,Aguilar,Jag,63,115.0,63,Orthodox,20.0,8.0,0.0
+27,Niklas,Backstrom,,73,145.0,71,Orthodox,11.0,3.0,0.0
+28,Seth,Baczynski,The Polish Pistola,75,170.0,75,Orthodox,20.0,14.0,0.0
+29,Abdul Azeem,Badakhshi,The Afghan Lion,70,145.0,71,Unknown,13.0,3.0,0.0
+30,Ryan,Bader,Darth,74,205.0,74,Orthodox,23.0,5.0,0.0
+31,Izabela,Badurek,,65,115.0,71,Orthodox,6.0,3.0,0.0
+32,Miguel,Baeza,Caramel Thunder,74,170.0,74,Orthodox,10.0,3.0,0.0
+33,Ali,Bagautinov,Puncher,64,125.0,65,Orthodox,15.0,6.0,0.0
+34,Mehdi,Baghdad,The Sultan,73,155.0,71,Orthodox,11.0,5.0,0.0
+35,Melsik,Baghdasaryan,The Gun,69,145.0,70,Southpaw,7.0,2.0,0.0
+36,Siyar,Bahadurzada,The Great,71,170.0,73,Orthodox,24.0,8.0,1.0
+37,Ignacio,Bahamondes,La Jaula,75,155.0,75,Orthodox,13.0,4.0,0.0
+38,Shamar,Bailey,,69,155.0,75,Southpaw,16.0,11.0,0.0
+39,Jordan,Bailey,,69,145.0,71,Unknown,6.0,3.0,0.0
+40,Scott,Baker,,72,210.0,71,Unknown,1.0,1.0,0.0
+41,Bryan,Baker,The Beast,75,185.0,71,Orthodox,18.0,5.0,0.0
+42,Jin,Bala,,69,155.0,71,Unknown,23.0,3.0,0.0
+44,Oluwale,Bamgbose,Holy War Angel,71,185.0,78,Switch,6.0,4.0,0.0
+45,Stephen,Banaszak,,72,145.0,71,Unknown,5.0,5.0,0.0
+46,Marcin,Bandel,Bomba,70,155.0,71,Orthodox,15.0,7.0,0.0
+47,Humberto,Bandenay,,71,145.0,71,Southpaw,14.0,7.0,0.0
+48,Tae Hyun,Bang,Supernatural,69,155.0,71,Switch,18.0,10.0,0.0
+50,Antonio,Banuelos,,65,135.0,63,Orthodox,20.0,11.0,1.0
+51,Renan,Barao,The Baron,66,145.0,70,Orthodox,34.0,9.0,0.0
+53,Yan,Cabral,,71,155.0,73,Orthodox,13.0,3.0,0.0
+54,Alvin,Cacdac,,66,125.0,71,Orthodox,18.0,13.0,0.0
+55,Alex,Caceres,Bruce Leeroy,70,145.0,73,Southpaw,20.0,13.0,0.0
+56,Vince,Cachero,The Anomaly,66,145.0,68,Orthodox,7.0,4.0,0.0
+57,Priscila,Cachoeira,Zombie Girl,67,125.0,65,Orthodox,12.0,4.0,0.0
+58,Travis,Calanoc,The Dark Knight,68,145.0,71,Orthodox,5.0,1.0,0.0
+59,Ricky,Calatayud,,69,125.0,71,Unknown,16.0,2.0,0.0
+60,Darrion,Caldwell,The Wolf,70,135.0,71,Unknown,10.0,1.0,0.0
+61,Taylor,Callens,,70,155.0,71,Unknown,6.0,0.0,0.0
+62,Cynthia,Calvillo,,64,125.0,64,Orthodox,9.0,5.0,1.0
+63,Joe,Camacho,,69,155.0,71,Orthodox,13.0,19.0,3.0
+64,Frank,Camacho,The Crank,70,155.0,73,Orthodox,22.0,10.0,0.0
+65,Fabricio,Camoes,Morango,70,155.0,71,Orthodox,14.0,9.0,1.0
+66,Chris,Camozzi,,74,185.0,75,Orthodox,24.0,13.0,0.0
+67,Brian,Camozzi,Mantis,74,170.0,78,Orthodox,7.0,5.0,0.0
+68,Ricky,Camp,2 Slick,67,135.0,71,Unknown,11.0,4.0,0.0
+69,Mike,Campbell,The Beast,69,155.0,71,Southpaw,13.0,4.0,0.0
+71,Shane,Campbell,Shaolin,72,155.0,71,Orthodox,14.0,6.0,0.0
+72,Charlie,Campbell,The Cannibal,72,155.0,71,Orthodox,6.0,2.0,0.0
+73,John,Campetella,,69,235.0,71,Orthodox,0.0,1.0,0.0
+74,Wagner,Campos,Galeto,66,145.0,71,Southpaw,12.0,10.0,0.0
+75,Derek,Campos,The Stallion,69,155.0,71,Unknown,19.0,6.0,0.0
+76,Will,Campuzano,,69,125.0,70,Orthodox,14.0,6.0,0.0
+77,Aleksa,Camur,,73,205.0,74,Orthodox,6.0,2.0,0.0
+79,Sarah,D'alelio,The Monster,67,145.0,71,Unknown,11.0,7.0,0.0
+80,Marcos,da Matta,Parrumpinha,64,145.0,71,Unknown,11.0,3.0,0.0
+81,Henrique,da Silva,Frankenstein,75,205.0,76,Orthodox,14.0,5.0,0.0
+82,Alex,Da Silva,Leko,68,155.0,73,Orthodox,21.0,4.0,0.0
+83,Henrique,Da Silva Lopes,Montanha,75,240.0,71,Unknown,5.0,2.0,0.0
+84,Nicolas,Dalby,Danish Dynamite,71,170.0,74,Orthodox,21.0,4.0,1.0
+85,Paul,Daley,Semtex,69,170.0,76,Orthodox,39.0,15.0,2.0
+86,Dave,Dalgliesh,,74,205.0,71,Orthodox,30.0,19.0,2.0
+87,Richard,Dalton,,73,205.0,71,Orthodox,4.0,3.0,1.0
+88,Aisling,Daly,Ais the Bash,62,115.0,64,Orthodox,16.0,6.0,0.0
+89,Marko,Damiani,,72,170.0,71,Unknown,0.0,2.0,0.0
+90,Leonardo,Damiani,Puppy,70,170.0,69,Orthodox,10.0,3.0,1.0
+91,Rodrigo,Damm,,67,155.0,71,Orthodox,13.0,9.0,0.0
+92,Carina,Damm,Beauty But the Beast,64,135.0,71,Unknown,2.0,13.0,0.0
+93,Batgerel,Danaa,Storm,67,135.0,70,Orthodox,12.0,4.0,0.0
+94,Cindy,Dandois,Battlecat,67,135.0,71,Orthodox,8.0,3.0,0.0
+95,Jarjis,Danho,Man Mountain,75,265.0,74,Orthodox,7.0,1.0,1.0
+96,Raymond,Daniels,,74,185.0,71,Southpaw,0.0,1.0,0.0
+97,Marques,Daniels,,70,155.0,71,Unknown,5.0,5.0,0.0
+98,Alexandre,Dantas,Cafe,74,238.0,71,Orthodox,0.0,3.0,0.0
+99,Eduardo,Dantas,Dudu,70,135.0,71,Unknown,20.0,4.0,0.0
+100,Mac,Danzig,,68,155.0,70,Orthodox,21.0,12.0,1.0
+101,Karen,Darabedyan,,67,155.0,68,Orthodox,13.0,6.0,0.0
+102,Beneil,Dariush,,70,155.0,72,Southpaw,22.0,4.0,1.0
+103,Sean,Daugherty,,72,175.0,71,Unknown,0.0,2.0,0.0
+105,Ben,Earwood,,68,170.0,71,Orthodox,12.0,3.0,0.0
+106,Cody,East,The Freight Train,75,245.0,71,Orthodox,12.0,3.0,0.0
+107,Marvin,Eastman,The Beastman,69,185.0,73,Orthodox,18.0,15.0,1.0
+108,Mike,Easton,The Hulk,66,135.0,70,Southpaw,13.0,6.0,0.0
+109,Maurice,Eazel,,67,135.0,71,Unknown,7.0,15.0,0.0
+110,Vincent,Eazelle,The Real Deal,71,155.0,71,Unknown,9.0,2.0,0.0
+111,Ross,Ebanez,The Boss,69,154.0,71,Southpaw,20.0,10.0,0.0
+112,Brian,Ebersole,Bad Boy,72,170.0,73,Southpaw,51.0,18.0,1.0
+113,Roybert,Echeverria,The Unbroken,65,125.0,67,Switch,7.0,1.0,0.0
+114,Mark,Eddiva,,68,145.0,68,Orthodox,6.0,3.0,0.0
+115,Frankie,Edgar,The Answer,66,135.0,68,Orthodox,23.0,11.0,1.0
+116,Abdul-Kerim,Edilov,,74,205.0,71,Orthodox,17.0,4.0,0.0
+117,Johnny,Eduardo,,67,135.0,71,Orthodox,28.0,13.0,0.0
+118,Yves,Edwards,,69,155.0,73,Southpaw,42.0,22.0,1.0
+119,Justin,Edwards,Fast Eddy,70,155.0,70,Orthodox,9.0,5.0,0.0
+120,Leon,Edwards,Rocky,74,170.0,74,Southpaw,21.0,3.0,0.0
+121,Te,Edwards,,68,155.0,72,Orthodox,6.0,3.0,0.0
+122,Adli,Edwards,,70,145.0,71,Unknown,4.0,1.0,0.0
+123,Joselyne,Edwards,La Pantera,68,135.0,70,Orthodox,12.0,4.0,0.0
+124,Tom,Egan,,71,170.0,71,Orthodox,7.0,5.0,0.0
+125,Stephanie,Egger,,66,135.0,68,Orthodox,8.0,3.0,0.0
+126,Justin,Eilers,The Hammer,73,235.0,71,Orthodox,19.0,7.0,1.0
+127,Jon Olav,Einemo,The Viking,78,253.0,71,Orthodox,6.0,3.0,0.0
+128,Per,Eklund,,70,155.0,72,Orthodox,14.0,5.0,1.0
+131,Edward,Faaloloto,,70,155.0,70,Unknown,2.0,5.0,0.0
+132,Urijah,Faber,The California Kid,66,135.0,67,Orthodox,35.0,11.0,0.0
+133,Melinda,Fabian,,66,125.0,66,Unknown,4.0,4.0,2.0
+134,Wagnney,Fabiano,The Silencer,66,145.0,69,Southpaw,16.0,4.0,0.0
+135,Bartosz,Fabinski,The Butcher,72,170.0,75,Orthodox,15.0,5.0,0.0
+136,Ron,Faircloth,,69,205.0,71,Orthodox,33.0,20.0,0.0
+137,Jason,Fairn,,73,230.0,71,Unknown,4.0,5.0,0.0
+138,Zarah,Fairn,Infinite,68,145.0,72,Orthodox,6.0,5.0,0.0
+139,Rinat,Fakhretdinov,Gladiator,72,170.0,74,Orthodox,20.0,1.0,0.0
+140,Maiquel,Falcao,Big Rig,71,185.0,71,Orthodox,37.0,10.0,0.0
+141,Pedro,Falcao,Pedrinho,66,135.0,66,Orthodox,15.0,3.0,0.0
+142,Brodie,Farber,,73,170.0,71,Orthodox,16.0,7.0,0.0
+143,Joao Paulo,Faria,,69,155.0,71,Unknown,1.0,1.0,0.0
+144,Kalindra,Faria,,67,125.0,71,Switch,18.0,8.0,1.0
+145,Chance,Farrar,,69,145.0,71,Southpaw,8.0,3.0,0.0
+146,Rico,Farrington,The Triggerman,76,170.0,79,Southpaw,7.0,3.0,0.0
+147,Kelly,Faszholz,,68,135.0,71,Orthodox,4.0,2.0,0.0
+148,Rodney,Faverus,,72,215.0,71,Southpaw,25.0,20.0,3.0
+149,Paul,Felder,The Irish Dragon,71,155.0,70,Orthodox,17.0,6.0,0.0
+150,Carlos,Felipe,Boi,72,245.0,75,Orthodox,11.0,2.0,0.0
+151,JP,Felty,,70,170.0,71,Unknown,4.0,5.0,0.0
+152,Kevin,Ferguson,Kimbo Slice,74,235.0,77,Orthodox,5.0,2.0,0.0
+153,Rhadi,Ferguson,,67,205.0,71,Unknown,3.0,0.0,0.0
+154,Tony,Ferguson,El Cucuy,71,155.0,76,Orthodox,26.0,8.0,0.0
+155,Josh,Ferguson,Taz,65,125.0,71,Orthodox,10.0,5.0,0.0
+157,James,Gabert,,70,178.0,71,Unknown,6.0,4.0,0.0
+158,Gustavo,Gabriel,,66,125.0,71,Orthodox,13.0,1.0,0.0
+159,Claudia,Gadelha,Claudinha,64,115.0,63,Orthodox,18.0,5.0,0.0
+160,Alavutdin,Gadjiev,,74,185.0,71,Orthodox,18.0,13.0,1.0
+161,Justin,Gaethje,The Highlight,71,155.0,70,Orthodox,24.0,4.0,0.0
+162,Sheila,Gaff,The German Tank,65,135.0,71,Orthodox,9.0,7.0,0.0
+163,Muin,Gafurov,Tajik,67,135.0,68,Southpaw,17.0,4.0,0.0
+164,Mitch,Gagnon,,65,135.0,65,Southpaw,12.0,5.0,0.0
+165,Brandon,Gaines,,75,185.0,71,Unknown,5.0,21.0,0.0
+166,Travis,Galbraith,The Gladiator,72,170.0,71,Orthodox,18.0,7.0,0.0
+167,Dave,Galera,Scarecrow,71,135.0,71,Orthodox,5.0,1.0,0.0
+168,Zelg,Galesic,Benkei,74,185.0,71,Orthodox,11.0,9.0,0.0
+169,Mickey,Gall,,74,170.0,74,Switch,7.0,5.0,0.0
+170,Daniel,Gallemore,Big Kansas,77,265.0,71,Unknown,7.0,3.0,0.0
+171,Tom,Gallicchio,Da Tank,70,170.0,71,Southpaw,19.0,10.0,0.0
+172,Turrell,Galloway,,63,145.0,71,Unknown,8.0,6.0,0.0
+173,Eric,Galvan,,70,155.0,71,Unknown,0.0,0.0,0.0
+174,Andre,Galvao,,67,168.0,71,Orthodox,5.0,2.0,0.0
+175,Marcos,Galvao,Loro,67,135.0,71,Orthodox,18.0,8.0,1.0
+176,Lucas,Gamaza,,70,170.0,71,Unknown,8.0,4.0,0.0
+177,Joey,Gambino,The Raging Warrior,67,145.0,71,Orthodox,9.0,2.0,0.0
+178,Manvel,Gamburyan,The Anvil,65,135.0,67,Orthodox,15.0,10.0,0.0
+179,Mateusz,Gamrot,Gamer,70,155.0,70,Southpaw,22.0,2.0,0.0
+180,Shamil,Gamzatov,,74,205.0,76,Orthodox,14.0,1.0,0.0
+181,Ariel,Gandulla,,71,205.0,71,Orthodox,7.0,9.0,0.0
+183,Chelsea,Hackett,Hammer,64,125.0,66,Switch,3.0,1.0,1.0
+184,Keith,Hackney,The Giant Killer,71,200.0,71,Sideways,2.0,2.0,0.0
+185,Jake,Hadley,White Kong,67,125.0,70,Southpaw,10.0,1.0,0.0
+186,Steve,Hadsel,,68,170.0,71,Unknown,3.0,0.0,0.0
+187,Damir,Hadzovic,The Bosnian Bomber,69,155.0,70,Orthodox,14.0,7.0,0.0
+188,Tim,Hague,The Trashing Machine,76,260.0,76,Orthodox,21.0,13.0,0.0
+189,Yazan,Hajeh,Yazzle Dazzle,69,145.0,71,Orthodox,6.0,1.0,0.0
+191,Kevin,Haley,The North Woods Nightmare,74,205.0,71,Unknown,6.0,4.0,0.0
+192,Mark,Hall,,72,190.0,71,Orthodox,5.0,6.0,0.0
+193,Uriah,Hall,Prime Time,72,185.0,79,Orthodox,18.0,11.0,0.0
+194,Ryan,Hall,The Wizard,70,145.0,70,Southpaw,9.0,2.0,0.0
+195,Dennis,Hallman,Superman,69,155.0,72,Orthodox,53.0,20.0,2.0
+196,Piotr,Hallmann,Pletwal,69,155.0,71,Orthodox,18.0,6.0,0.0
+197,Tony,Halme,,75,300.0,71,Orthodox,0.0,4.0,0.0
+198,Brandon,Halsey,Bull,72,185.0,71,Unknown,9.0,3.0,0.0
+199,John,Halverson,The Hurricane,69,155.0,71,Southpaw,16.0,8.0,0.0
+200,Seo Hee,Ham,,62,115.0,62,Southpaw,17.0,8.0,0.0
+202,Kazuhiro,Hamanaka,,72,185.0,71,Southpaw,5.0,7.0,1.0
+203,Matt,Hamill,The Hammer,73,205.0,76,Orthodox,12.0,8.0,0.0
+204,Jeremy,Hamilton,Hawk,70,185.0,71,Unknown,9.0,2.0,0.0
+205,Anthony,Hamilton,Freight Train,77,260.0,76,Orthodox,15.0,9.0,0.0
+206,CJ,Hamilton,The Autobot,67,125.0,68,Switch,11.0,4.0,0.0
+207,Jared,Hamman,The Messenger,75,185.0,75,Orthodox,14.0,6.0,0.0
+209,Al,Iaquinta,Raging,70,155.0,70,Orthodox,14.0,7.0,1.0
+210,Khadis,Ibragimov,,75,205.0,78,Orthodox,8.0,4.0,0.0
+211,Minoki,Ichihara,,67,178.0,71,Orthodox,0.0,1.0,0.0
+212,Dan,Ige,50K,67,145.0,71,Orthodox,16.0,6.0,0.0
+213,Valeri,Ignatov,,69,170.0,71,Orthodox,1.0,2.0,0.0
+214,Sergey,Ignatov,,69,210.0,71,Orthodox,0.0,1.0,0.0
+215,Fabiano,Iha,,68,155.0,71,Orthodox,9.0,5.0,0.0
+216,Seichi,Ikemoto,,71,168.0,71,Orthodox,21.0,19.0,5.0
+217,Mikhail,Iloukhine,,69,205.0,71,Orthodox,30.0,11.0,1.0
+218,Zelim,Imadaev,,72,170.0,76,Orthodox,8.0,3.0,0.0
+219,Yusuke,Imamura,,68,220.0,71,Orthodox,2.0,6.0,0.0
+220,Masakazu,Imanari,,64,139.0,71,Southpaw,36.0,16.0,2.0
+221,Nassourdine,Imavov,,75,185.0,75,Orthodox,12.0,4.0,0.0
+222,Brad,Imes,Hillbilly Heartthrob,79,265.0,71,Orthodox,13.0,7.0,0.0
+223,Chris,Indich,,70,170.0,71,Unknown,6.0,4.0,0.0
+225,Guto,Inocente,,75,205.0,71,Orthodox,7.0,4.0,0.0
+226,Enson,Inoue,Yamato Damashii,70,210.0,71,Orthodox,12.0,8.0,0.0
+227,Egan,Inoue,,69,190.0,71,Southpaw,13.0,8.0,0.0
+228,Katsuya,Inoue,,69,168.0,71,Southpaw,19.0,9.0,4.0
+229,Takeshi,Inoue,Lion,68,145.0,71,Unknown,23.0,10.0,0.0
+230,Naoki,Inoue,,69,125.0,71,Orthodox,11.0,1.0,0.0
+231,Inoue,Mizuki,,63,125.0,65,Orthodox,14.0,6.0,0.0
+232,Jorge,Interiano,,73,205.0,71,Unknown,4.0,3.0,0.0
+233,Jason,Ireland,The Irish Tornado,69,161.0,71,Southpaw,19.0,9.0,1.0
+235,Yves,Jabouin,Tiger,67,135.0,68,Orthodox,20.0,11.0,0.0
+236,Kevin,Jackson,,70,199.0,71,Switch,4.0,2.0,0.0
+237,Eugene,Jackson,The Wolf,68,185.0,71,Orthodox,15.0,9.0,1.0
+238,Quinton,Jackson,Rampage,73,205.0,73,Orthodox,37.0,12.0,0.0
+239,Jeremy,Jackson,Scorpion,70,170.0,71,Orthodox,9.0,5.0,0.0
+240,Damon,Jackson,Action,71,145.0,71,Switch,22.0,5.0,1.0
+241,Kenyon,Jackson,,72,185.0,71,Unknown,4.0,3.0,0.0
+242,Mike,Jackson,The Truth,74,170.0,74,Orthodox,1.0,2.0,0.0
+243,Jason,Jackson,Jah-Son,73,170.0,78,Orthodox,7.0,2.0,0.0
+244,Montel,Jackson,Quik,70,135.0,75,Southpaw,12.0,2.0,0.0
+245,Eric,Jacob,,70,155.0,71,Unknown,1.0,9.0,0.0
+246,Richard,Jacobi,,76,260.0,75,Orthodox,6.0,1.0,1.0
+247,Dustin,Jacoby,The Hanyak,75,205.0,76,Orthodox,18.0,6.0,1.0
+248,Justin,James,,70,155.0,71,Orthodox,13.0,7.0,0.0
+249,Nate,James,,72,185.0,71,Unknown,14.0,8.0,1.0
+250,Virna,Jandiroba,Carcara,63,115.0,64,Orthodox,18.0,3.0,0.0
+251,Ryan,Janes,,75,185.0,76,Orthodox,10.0,3.0,0.0
+252,Josh,Janousek,,71,185.0,71,Orthodox,8.0,1.0,0.0
+253,Dave,Jansen,,69,155.0,73,Orthodox,20.0,4.0,0.0
+254,Jaime,Jara,El Cucui,73,205.0,71,Southpaw,38.0,18.0,0.0
+255,Gigo,Jara,The Little Animal,69,145.0,71,Unknown,6.0,9.0,0.0
+256,Keith,Jardine,The Dean of Mean,74,185.0,76,Orthodox,17.0,11.0,2.0
+257,Brock,Jardine,The Machine,71,170.0,71,Orthodox,12.0,6.0,0.0
+259,Rony,Jason,,67,145.0,73,Orthodox,14.0,7.0,0.0
+261,Patrick,Kaase,Kamikaze,69,185.0,71,Unknown,1.0,2.0,0.0
+262,Emily,Kagan,,63,115.0,71,Unknown,3.0,3.0,0.0
+263,Oron,Kahlon,,68,135.0,70,Orthodox,16.0,1.0,0.0
+264,Sirwan,Kakai,Zohan,65,135.0,71,Orthodox,12.0,5.0,0.0
+265,Saidyokub,Kakhramonov,,68,135.0,69,Orthodox,10.0,3.0,0.0
+266,Geza,Kalman,,73,200.0,71,Unknown,4.0,9.0,0.0
+267,Bryson,Kamaka,,71,170.0,71,Orthodox,12.0,20.0,1.0
+268,Kai,Kamaka,The Fighting Hawaiian,67,145.0,69,Orthodox,8.0,4.0,1.0
+269,Shuya,Kamikubo,Stealth,70,145.0,71,Unknown,12.0,1.0,1.0
+270,Martin,Kampmann,The Hitman,72,170.0,72,Orthodox,20.0,7.0,0.0
+272,Bharat,Kandare,Daring,67,135.0,72,Orthodox,5.0,3.0,0.0
+273,Hiromitsu,Kanehara,,70,200.0,71,Orthodox,19.0,27.0,5.0
+274,Masanori,Kanehara,,67,135.0,67,Orthodox,26.0,12.0,5.0
+275,Ken,Kaneko,,72,161.0,71,Orthodox,0.0,3.0,0.0
+276,Denis,Kang,,71,185.0,77,Orthodox,35.0,16.0,2.0
+277,Kyung Ho,Kang,Mr. Perfect,69,135.0,73,Orthodox,18.0,9.0,0.0
+278,Manel,Kape,StarBoy,65,125.0,68,Southpaw,18.0,6.0,0.0
+279,David,Kaplan,Diamond,67,155.0,71,Orthodox,3.0,4.0,0.0
+280,Kai,Kara-France,Don't Blink,64,125.0,69,Orthodox,24.0,10.0,0.0
+281,Georgi,Karakhanyan,Insane,68,145.0,71,Unknown,26.0,7.0,1.0
+282,Alex,Karalexis,The Assassin,68,155.0,66,Orthodox,10.0,6.0,0.0
+283,Impa,Kasanganay,Tshilobo,71,170.0,75,Orthodox,9.0,2.0,0.0
+284,Jinnosuke,Kashimura,,67,155.0,71,Southpaw,4.0,2.0,0.0
+285,Nadia,Kassem,,65,125.0,66,Southpaw,5.0,2.0,0.0
+287,Achmed,Labasanov,,75,215.0,71,Orthodox,7.0,4.0,0.0
+288,Josh,LaBerge,,70,145.0,71,Unknown,11.0,6.0,0.0
+289,Jeremiah,Labiano,The Kid,70,135.0,71,Unknown,11.0,5.0,0.0
+290,Daniel,Lacerda,Miojo,66,125.0,70,Switch,11.0,5.0,0.0
+291,Luan,Lacerda,,67,135.0,71,Orthodox,12.0,2.0,0.0
+292,Kemran,Lachinov,,70,170.0,71,Unknown,3.0,2.0,0.0
+293,Aspen,Ladd,,66,135.0,66,Orthodox,9.0,3.0,0.0
+294,Ryan,LaFlare,,73,170.0,74,Southpaw,14.0,3.0,0.0
+295,Ben,Lagman,Bad News,74,185.0,71,Unknown,6.0,5.0,0.0
+296,Noad,Lahat,Neo,69,145.0,69,Orthodox,11.0,2.0,0.0
+297,Tina,Lahdemaki,Jelly Bean,62,115.0,71,Orthodox,5.0,1.0,0.0
+298,Yohan,Lainesse,White Lion,73,170.0,76,Orthodox,9.0,2.0,0.0
+299,Tim,Lajcik,The Bohemian,73,225.0,71,Orthodox,7.0,6.0,1.0
+300,Todd,Lally,,67,145.0,71,Orthodox,2.0,1.0,0.0
+301,Sean,Lally,The Unpredictable One,72,170.0,71,Orthodox,7.0,3.0,0.0
+302,Ricardo,Lamas,The Bully,68,145.0,71,Orthodox,20.0,8.0,0.0
+303,Jason,Lambert,The Punisher,75,185.0,75,Orthodox,26.0,13.0,0.0
+304,Jose,Landi-Jons,Pele,71,170.0,71,Orthodox,29.0,16.0,0.0
+305,Nate,Landwehr,The Train,69,145.0,72,Orthodox,17.0,4.0,0.0
+306,Austen,Lane,,78,245.0,80,Orthodox,12.0,3.0,0.0
+307,Aaron,Lanfranco,,70,155.0,71,Unknown,5.0,1.0,0.0
+308,Jeremy,Lang,,71,205.0,71,Southpaw,21.0,2.0,0.0
+309,Lionel,Lanham,,70,205.0,71,Unknown,5.0,1.0,0.0
+310,Lina,Lansberg,Elbow Queen,67,135.0,65,Orthodox,10.0,8.0,0.0
+311,Taylor,Lapilus,Double Impact,66,135.0,73,Southpaw,18.0,3.0,0.0
+313,Dong Hyun,Ma,Maestro,71,155.0,70,Orthodox,16.0,11.0,3.0
+314,Pawan,Maan,,67,155.0,70,Orthodox,7.0,3.0,1.0
+315,William,Macario,Patolino,71,170.0,75,Orthodox,9.0,3.0,0.0
+316,Jason,MacDonald,The Athlete,75,185.0,80,Orthodox,25.0,16.0,0.0
+317,Rob,MacDonald,Maximus,75,205.0,78,Orthodox,5.0,4.0,0.0
+318,Rory,MacDonald,Red King,72,170.0,76,Orthodox,19.0,4.0,0.0
+319,Ryan,MacDonald,Main Event,71,135.0,71,Switch,10.0,2.0,0.0
+320,Clayton,MacFarlane,,70,170.0,71,Unknown,4.0,1.0,0.0
+321,Ilima,Macfarlane,,64,125.0,71,Unknown,6.0,0.0,0.0
+322,Valesca,Machado,Tina Black,64,115.0,63,Orthodox,8.0,3.0,0.0
+323,Caio,Machado,Lionheart,70,145.0,71,Unknown,14.0,7.0,0.0
+324,Lyoto,Machida,The Dragon,73,185.0,74,Southpaw,24.0,8.0,0.0
+325,War,Machine,,71,170.0,71,Orthodox,14.0,5.0,0.0
+326,Anthony,Macias,Mad Dog,69,185.0,71,Switch,26.0,18.0,0.0
+327,Pauline,Macias,PITA,64,115.0,64,Southpaw,4.0,1.0,0.0
+328,Reza,Madadi,Mad Dog,71,155.0,73,Orthodox,14.0,6.0,0.0
+329,Don,Madge,Magic Man,72,155.0,72,Southpaw,9.0,3.0,1.0
+330,Ryan,Madigan,,72,170.0,71,Orthodox,5.0,3.0,0.0
+331,Jon,Madsen,,72,240.0,72,Orthodox,8.0,2.0,0.0
+332,Mark,Madsen,The Olympian,68,155.0,72,Orthodox,12.0,1.0,0.0
+333,Yoshiro,Maeda,,67,139.0,68,Southpaw,35.0,16.0,5.0
+334,Leonardo,Mafra,Macarrao,70,155.0,70,Orthodox,13.0,4.0,0.0
+335,Vinny,Magalhaes,Pezao,75,205.0,75,Orthodox,14.0,9.0,0.0
+336,Vinicius,Magalhaes,Draculinho,70,145.0,71,Unknown,2.0,1.0,0.0
+337,Caio,Magalhaes,Hellboy,73,185.0,73,Orthodox,10.0,3.0,0.0
+339,Katsuhiko,Nagata,,67,154.0,71,Southpaw,6.0,7.0,3.0
+340,Yuji,Nagata,,72,225.0,71,Orthodox,0.0,2.0,0.0
+341,Greg,Nagy,,73,210.0,71,Orthodox,1.0,3.0,0.0
+342,Logan,Nail,,70,185.0,71,Unknown,1.0,1.0,0.0
+343,Muhammad,Naimov,Hillman,69,145.0,70,Orthodox,5.0,1.0,0.0
+344,Yukiya,Naito,,73,205.0,71,Orthodox,15.0,6.0,2.0
+345,Andrews,Nakahara,,73,185.0,71,Orthodox,5.0,4.0,2.0
+346,Rin,Nakai,,61,135.0,71,Orthodox,19.0,2.0,1.0
+347,Kazuhiro,Nakamura,Kaz,71,205.0,70,Orthodox,21.0,13.0,0.0
+348,Keita,Nakamura,K-Taro,71,170.0,73,Southpaw,34.0,10.0,2.0
+349,Daisuke,Nakamura,,67,154.0,71,Orthodox,28.0,19.0,1.0
+350,Yusaku,Nakamura,,65,145.0,71,Unknown,14.0,4.0,1.0
+351,Rinya,Nakamura,Hybrid,67,135.0,68,Southpaw,7.0,0.0,0.0
+352,Jutaro,Nakao,,69,170.0,71,Southpaw,25.0,19.0,4.0
+353,Yoshihiro,Nakao,Kiss,72,220.0,71,Southpaw,9.0,3.0,0.0
+354,Yui Chul,Nam,The Korean Bulldozer,69,145.0,71,Orthodox,18.0,8.0,1.0
+355,Tyson,Nam,,67,125.0,68,Orthodox,21.0,13.0,1.0
+356,Rose,Namajunas,Thug,65,115.0,65,Orthodox,12.0,5.0,0.0
+357,Yasuhito,Namekawa,,69,205.0,71,Orthodox,25.0,16.0,4.0
+358,Nad,Narimani,Smiler,68,145.0,70,Orthodox,12.0,4.0,0.0
+359,Roger,Narvaez,Silverback,75,185.0,71,Southpaw,8.0,3.0,0.0
+360,Fabio,Nascimento,Negao,70,185.0,71,Orthodox,11.0,6.0,0.0
+361,Allan,Nascimento,Puro Osso,68,125.0,69,Orthodox,20.0,6.0,0.0
+362,Rodrigo,Nascimento,Ze Colmeia,74,246.0,80,Orthodox,9.0,1.0,0.0
+363,Bobby,Nash,,72,170.0,74,Orthodox,8.0,4.0,0.0
+365,Jake,O'Brien,Irish,75,205.0,76,Orthodox,15.0,4.0,0.0
+366,TJ,O'Brien,The Spider,74,155.0,71,Orthodox,20.0,8.0,0.0
+367,Sean,O'Connell,The Real OC,73,205.0,74,Orthodox,17.0,9.0,0.0
+368,Dan,O'Connor,Johnny Irish,64,115.0,71,Unknown,6.0,6.0,0.0
+369,Sean,O'Haire,,77,270.0,71,Orthodox,4.0,2.0,0.0
+370,Sean,O'Malley,Sugar,71,135.0,72,Switch,16.0,1.0,0.0
+371,Jeremiah,O'Neal,,68,260.0,71,Unknown,13.0,25.0,0.0
+372,Chuck,O'Neil,Cold Steel,74,170.0,71,Unknown,17.0,9.0,0.0
+373,Casey,O'Neill,King,66,125.0,69,Orthodox,9.0,1.0,0.0
+374,Brendan,O'Reilly,Badger,67,170.0,69,Orthodox,6.0,3.0,0.0
+375,Takahiro,Oba,,68,200.0,71,Southpaw,5.0,7.0,1.0
+376,Nobuhiro,Obiya,,68,145.0,71,Orthodox,12.0,5.0,1.0
+377,Christian,Ocon,,68,135.0,69,Orthodox,2.0,1.0,0.0
+378,Richard,Odoms,The Black Eagle,77,265.0,71,Orthodox,13.0,3.0,0.0
+379,Volkan,Oezdemir,No Time,74,205.0,75,Orthodox,18.0,7.0,0.0
+380,Naoya,Ogawa,,76,255.0,71,Orthodox,7.0,2.0,0.0
+381,Trey,Ogden,Samurai Ghost,71,155.0,72,Orthodox,16.0,5.0,0.0
+382,Andy,Ogle,The Little Axe,68,145.0,69,Orthodox,9.0,6.0,0.0
+383,Ho Taek,Oh,Spider,70,155.0,71,Unknown,7.0,2.0,1.0
+384,Michiyoshi,Ohara,,70,205.0,71,Orthodox,0.0,2.0,0.0
+385,Koji,Oishi,,68,170.0,71,Orthodox,25.0,10.0,10.0
+386,Takayuki,Okada,Giant Ochiai,73,290.0,71,Orthodox,3.0,3.0,2.0
+387,Yushin,Okami,Thunder,74,170.0,75,Southpaw,34.0,12.0,0.0
+388,JJ,Okanovich,The Bosnian Bomber,71,155.0,76,Orthodox,7.0,1.0,0.0
+389,Kazuki,Okubo,,71,175.0,71,Orthodox,7.0,9.0,0.0
+391,Raquel,Pa'aluhi,Rocky,67,135.0,71,Unknown,6.0,5.0,0.0
+392,Nick,Pace,,67,135.0,68,Orthodox,8.0,3.0,0.0
+393,Larissa,Pacheco,,67,135.0,71,Orthodox,10.0,2.0,0.0
+394,Teemu,Packalen,Pacu,73,155.0,75,Orthodox,8.0,3.0,0.0
+395,George,Pacurariu,Constantine,67,135.0,71,Unknown,10.0,5.0,0.0
+396,Cyrillo,Padilha,,71,155.0,71,Unknown,3.0,3.0,0.0
+397,Gary,Padilla,,71,205.0,71,Unknown,12.0,6.0,0.0
+398,Fernando,Padilla,,73,155.0,71,Unknown,13.0,4.0,0.0
+399,Damacio,Page,The Angel of Death,66,135.0,66,Orthodox,19.0,10.0,0.0
+400,Michael,Page,Venom,74,170.0,71,Unknown,12.0,0.0,0.0
+401,Dustin,Pague,The Disciple,69,135.0,74,Orthodox,12.0,11.0,0.0
+402,Josh,Paiva,,66,125.0,71,Unknown,8.0,2.0,0.0
+403,Raulian,Paiva,,68,135.0,69,Orthodox,21.0,5.0,0.0
+404,Dinis,Paiva Jr.,Sweetbread,69,145.0,71,Southpaw,13.0,8.0,0.0
+405,Fredson,Paixao,,66,145.0,66,Orthodox,10.0,5.0,0.0
+406,Jose,Palacios,,69,145.0,71,Orthodox,3.0,2.0,0.0
+407,Ricky,Palacios,El Gallero,66,145.0,71,Orthodox,10.0,1.0,0.0
+408,Bart,Palaszewski,Bartimus,69,145.0,70,Orthodox,36.0,17.0,0.0
+409,Sasha,Palatnikov,,73,170.0,72,Switch,6.0,4.0,0.0
+410,Soa,Palelei,The Hulk,76,265.0,81,Orthodox,22.0,5.0,0.0
+411,Rousimar,Palhares,Toquinho,68,170.0,71,Orthodox,19.0,8.0,0.0
+412,Tulio,Palhares,,70,180.0,71,Unknown,2.0,16.0,0.0
+413,Stephen,Palling,Bozo,64,143.0,71,Unknown,11.0,7.0,1.0
+414,Eduardo,Pamplona,,71,170.0,71,Unknown,16.0,4.0,0.0
+415,Alexandre,Pantoja,The Cannibal,65,125.0,67,Orthodox,25.0,5.0,0.0
+417,Qiu,Lun,Tibetan Knight,68,125.0,66,Southpaw,16.0,9.0,0.0
+418,Bao,Quach,,63,145.0,71,Orthodox,19.0,10.0,1.0
+419,Gary,Quan,,68,143.0,71,Unknown,3.0,5.0,0.0
+420,Billy,Quarantillo,,70,145.0,70,Orthodox,17.0,4.0,0.0
+421,Nate,Quarry,Rock,72,185.0,72,Open Stance,12.0,4.0,0.0
+422,Vinicius,Queiroz,Spartan,79,220.0,71,Unknown,8.0,4.0,0.0
+423,Jimmy,Quinlan,Crash,72,185.0,71,Orthodox,3.0,1.0,1.0
+424,Josh,Quinlan,Bushido,72,170.0,72,Orthodox,6.0,0.0,0.0
+425,Ryan,Quinn,,68,145.0,71,Unknown,13.0,7.0,1.0
+426,Michel,Quinones,El Capo,70,155.0,73,Orthodox,8.0,3.0,0.0
+427,Landon,Quinones,,69,155.0,71,Southpaw,5.0,1.0,1.0
+428,Jose,Quinonez,Teco,68,135.0,69,Southpaw,9.0,5.0,0.0
+429,Cristian,Quinonez,Problema,68,135.0,70,Orthodox,18.0,3.0,0.0
+431,Benji,Radach,Razor,70,185.0,71,Orthodox,21.0,7.0,0.0
+432,Jordan,Radev,,67,185.0,71,Southpaw,23.0,5.0,0.0
+433,Loik,Radzhabov,Jaguar Paw,71,155.0,69,Orthodox,17.0,4.0,1.0
+434,Gilbert,Rael,,68,155.0,71,Unknown,1.0,3.0,0.0
+435,Josh,Rafferty,,72,170.0,71,Orthodox,9.0,8.0,0.0
+436,Amir,Rahnavardi,,72,205.0,71,Orthodox,11.0,10.0,0.0
+437,Ricky,Rainey,The Sniper,73,170.0,77,Switch,12.0,6.0,0.0
+438,Shavkat,Rakhmonov,Nomad,73,170.0,77,Orthodox,17.0,0.0,0.0
+439,Aleksandar,Rakic,,76,205.0,78,Orthodox,14.0,3.0,0.0
+440,Jessica,Rakoczy,The Ragin',67,115.0,71,Orthodox,1.0,5.0,0.0
+441,Thomas,Ramirez,,73,410.0,71,Sideways,0.0,1.0,0.0
+442,Hector,Ramirez,Sick Dog,72,205.0,71,Orthodox,10.0,6.0,1.0
+443,Matt,Ramirez,The Machine,65,125.0,71,Unknown,2.0,3.0,0.0
+444,Steve,Ramirez,,67,125.0,71,Unknown,5.0,2.0,0.0
+445,Amador,Ramirez,,70,135.0,71,Unknown,5.0,4.0,0.0
+446,Andrew,Ramm,The,73,160.0,71,Unknown,4.0,4.0,0.0
+447,Ian,Rammel,,72,185.0,71,Unknown,7.0,8.0,0.0
+448,Luis,Ramos,Beicao,68,170.0,71,Orthodox,20.0,10.0,2.0
+449,Ricardo,Ramos,,69,145.0,72,Orthodox,16.0,4.0,0.0
+450,Davi,Ramos,Tasmanian Devil,66,155.0,70,Orthodox,10.0,4.0,0.0
+451,Vernon,Ramos Ho,,66,170.0,71,Orthodox,3.0,1.0,0.0
+452,Kevin,Randleman,The Monster,70,205.0,71,Orthodox,17.0,16.0,0.0
+453,Raou,Raou,,68,195.0,71,Orthodox,0.0,1.0,0.0
+454,Mitch,Raposo,,65,125.0,64,Switch,5.0,1.0,0.0
+455,Hussain,Rasouli,,66,135.0,71,Unknown,2.0,3.0,0.0
+457,Yusup,Saadulaev,Maestro,66,135.0,71,Unknown,16.0,4.0,1.0
+458,Cameron,Saaiman,MSP,68,135.0,67,Southpaw,8.0,0.0,0.0
+459,Pete,Sabala,,70,135.0,71,Unknown,3.0,15.0,0.0
+460,Danny,Sabatello,Italian Gangster,70,135.0,71,Orthodox,9.0,1.0,0.0
+461,Pat,Sabatini,,68,145.0,70,Orthodox,17.0,4.0,0.0
+462,Amir,Sadollah,,70,170.0,75,Orthodox,6.0,5.0,0.0
+463,Nazim,Sadykhov,Black Wolf,70,155.0,69,Southpaw,8.0,1.0,0.0
+464,Frankie,Saenz,,66,135.0,66,Orthodox,13.0,7.0,0.0
+465,Saparbeg,Safarov,,73,185.0,78,Orthodox,9.0,3.0,0.0
+466,Tarec,Saffiedine,Sponge,70,170.0,70,Switch,16.0,7.0,0.0
+467,Jason,Saggo,,71,155.0,71,Orthodox,12.0,4.0,0.0
+468,Benoit,Saint Denis,God of War,71,155.0,73,Southpaw,10.0,1.0,0.0
+469,Ovince,Saint Preux,,75,205.0,80,Southpaw,26.0,17.0,0.0
+470,Lukasz,Sajewski,Wookie,68,155.0,71,Orthodox,13.0,3.0,0.0
+471,Yukio,Sakaguchi,,69,185.0,71,Orthodox,6.0,7.0,0.0
+472,Augusto,Sakai,,75,265.0,77,Orthodox,16.0,5.0,1.0
+473,Alessio,Sakara,Legionarius,72,185.0,72,Orthodox,19.0,11.0,0.0
+474,Wataru,Sakata,,69,195.0,71,Southpaw,11.0,14.0,0.0
+475,Gokhan,Saki,The Rebel,72,205.0,73,Orthodox,1.0,2.0,0.0
+476,Kazushi,Sakuraba,The Gracie Hunter,72,185.0,71,Southpaw,26.0,17.0,1.0
+477,Hayato,Sakurai,Mach,67,168.0,71,Orthodox,38.0,13.0,2.0
+478,Ryuta,Sakurai,,67,183.0,71,Orthodox,24.0,24.0,6.0
+479,Justin,Salas,J-Bomb,68,155.0,70,Southpaw,12.0,7.0,0.0
+480,Ivan,Salaverry,,72,185.0,71,Orthodox,14.0,9.0,0.0
+481,Roman,Salazar,El Gallito,67,135.0,71,Orthodox,10.0,6.0,0.0
+483,Osamu,Tachihikari,,77,300.0,71,Orthodox,0.0,4.0,0.0
+484,Amber,Tackett,,70,115.0,71,Unknown,1.0,3.0,0.0
+485,Eugenio,Tadeu,,68,160.0,71,Orthodox,2.0,3.0,0.0
+486,Justin,Tafa,Bad Man,72,264.0,74,Southpaw,6.0,3.0,0.0
+488,Khalid,Taha,The Warrior,65,135.0,69,Orthodox,13.0,5.0,0.0
+489,Joe,Taimanglo,The Juggernaut,64,135.0,71,Unknown,23.0,7.0,1.0
+490,Tatsuro,Taira,,67,125.0,70,Orthodox,13.0,0.0,0.0
+491,Mairbek,Taisumov,Beckan,69,155.0,73,Orthodox,27.0,6.0,0.0
+492,Nobuhiko,Takada,,72,220.0,71,Southpaw,2.0,6.0,2.0
+493,Yoshiki,Takahashi,Kazuo,71,199.0,71,Southpaw,30.0,27.0,3.0
+494,Yoko,Takahashi,,68,150.0,71,Unknown,15.0,12.0,2.0
+495,Daiju,Takase,,72,170.0,71,Southpaw,12.0,15.0,2.0
+496,Hiroyuki,Takaya,Streetfight Bancho,66,139.0,71,Orthodox,21.0,14.0,2.0
+497,Yoshihiro,Takayama,,77,280.0,71,Orthodox,1.0,4.0,0.0
+498,Makoto,Takimoto,,67,205.0,71,Southpaw,6.0,5.0,0.0
+499,Oleg,Taktarov,The Russian Bear,72,210.0,71,Orthodox,17.0,5.0,2.0
+500,Nordine,Taleb,,73,170.0,74,Orthodox,15.0,7.0,0.0
+501,Tsuyoshi,Tamakairiki,,72,220.0,71,Orthodox,0.0,3.0,0.0
+502,Eli,Tamez,Tomahawk,67,135.0,71,Unknown,10.0,0.0,0.0
+503,Kiyoshi,Tamura,,71,185.0,71,Southpaw,32.0,13.0,3.0
+504,Akitoshi,Tamura,The Ironman,69,135.0,70,Orthodox,21.0,18.0,2.0
+505,Issei,Tamura,,65,135.0,63,Orthodox,10.0,8.0,0.0
+506,Jason,Tan,,70,170.0,71,Orthodox,5.0,3.0,0.0
+509,Takeru,Uchida,,65,125.0,68,Southpaw,6.0,1.0,0.0
+510,Alberto,Uda,,75,185.0,71,Orthodox,12.0,2.0,0.0
+511,Ryuki,Ueyama,,71,180.0,71,Southpaw,12.0,18.0,5.0
+512,Christian,Uflacker,,71,170.0,71,Unknown,5.0,0.0,0.0
+513,Andy,Uhrich,,72,170.0,71,Unknown,11.0,6.0,0.0
+514,Tagir,Ulanbekov,,67,125.0,70,Southpaw,14.0,2.0,0.0
+515,Carlos,Ulberg,Black Jag,76,205.0,77,Orthodox,8.0,1.0,0.0
+516,Gasan,Umalatov,Cobra,71,170.0,71,Orthodox,17.0,4.0,2.0
+517,Jeremy,Umphries,,70,160.0,71,Unknown,5.0,2.0,0.0
+518,Zach,Underwood,,74,185.0,71,Unknown,13.0,7.0,0.0
+519,Caol,Uno,Uno Shoten,67,155.0,70,Southpaw,33.0,19.0,5.0
+520,Kengo,Ura,Uraken,69,165.0,71,Unknown,14.0,12.0,2.0
+521,Logan,Urban,Hulk,72,170.0,72,Orthodox,5.0,1.0,0.0
+522,Hector,Urbina,El Toro,71,170.0,73,Orthodox,17.0,10.0,1.0
+523,Elias,Urbina,,75,185.0,77,Southpaw,3.0,1.0,0.0
+524,Gilbert,Urbina,The RGV Bad Boy,75,185.0,75,Orthodox,6.0,3.0,0.0
+525,Nick,Urso,,66,125.0,66,Southpaw,10.0,3.0,0.0
+526,Yasuhiro,Urushitani,,65,125.0,71,Southpaw,21.0,8.0,6.0
+527,Sho Patrick,Usami,Savage,69,155.0,70,Orthodox,4.0,1.0,0.0
+528,Kamaru,Usman,The Nigerian Nightmare,72,170.0,76,Switch,20.0,3.0,0.0
+529,Mohammed,Usman,The Motor,74,239.0,79,Orthodox,9.0,2.0,0.0
+530,Darren,Uyenoyama,BC,66,125.0,65,Orthodox,10.0,6.0,0.0
+532,Richie,Vaculik,Vas,66,125.0,69,Orthodox,10.0,4.0,0.0
+533,Egidijus,Valavicius,,72,200.0,71,Orthodox,29.0,12.0,0.0
+534,Genaro,Valdez,Rayadito,69,155.0,72,Orthodox,10.0,2.0,0.0
+535,Charlie,Valencia,,63,135.0,64,Orthodox,12.0,7.0,0.0
+536,Victor,Valenzuela,Joe Boxer,70,155.0,71,Unknown,13.0,6.0,2.0
+537,Ivan,Valenzuela,Bam Bam,74,185.0,77,Orthodox,8.0,2.0,0.0
+538,Timur,Valiev,Lucky,66,135.0,67,Orthodox,18.0,3.0,0.0
+539,Victor,Valimaki,The Matrix,72,205.0,71,Orthodox,18.0,10.0,0.0
+540,Andrew,Valladerez,,70,135.0,71,Unknown,5.0,7.0,0.0
+541,Isaac,Vallie-Flagg,,68,155.0,70,Orthodox,16.0,7.0,1.0
+542,Joshua,Van,The Fearless,70,125.0,71,Unknown,7.0,1.0,0.0
+543,Mike,van Arsdale,,74,205.0,71,Switch,8.0,5.0,0.0
+544,Matt,Van Buren,Gutter,77,205.0,71,Unknown,7.0,6.0,0.0
+545,Ron,van Clief,The Black Dragon,70,190.0,71,Orthodox,0.0,1.0,0.0
+546,Lloyd,Van Dams,,73,240.0,71,Southpaw,0.0,1.0,0.0
+547,Cameron,VanCamp,Jumpman,74,155.0,74,Switch,15.0,7.0,1.0
+548,Chad,Vance,,72,185.0,71,Orthodox,7.0,5.0,0.0
+549,Jared,Vanderaa,,76,265.0,80,Orthodox,12.0,10.0,0.0
+550,Austin,Vanderford,AK-47,71,170.0,71,Orthodox,4.0,0.0,0.0
+551,Lando,Vannata,Groovy,69,155.0,71,Orthodox,12.0,6.0,2.0
+552,Paige,VanZant,12 Gauge,64,115.0,65,Orthodox,8.0,5.0,0.0
+553,Paul,Varelans,The Polar Bear,80,300.0,71,Orthodox,9.0,9.0,0.0
+554,Kazula,Vargas,,68,155.0,71,Southpaw,12.0,5.0,0.0
+555,Jamie,Varner,,68,155.0,71,Orthodox,21.0,11.0,1.0
+556,Guilherme,Vasconcelos,Bomba,72,185.0,71,Orthodox,9.0,4.0,0.0
+558,James,Wade,,70,205.0,71,Unknown,4.0,11.0,0.0
+559,Chris,Wade,,70,155.0,70,Orthodox,12.0,3.0,0.0
+560,Neil,Wain,Old School,70,242.0,71,Orthodox,13.0,4.0,0.0
+561,TJ,Waldburger,,71,170.0,75,Orthodox,16.0,9.0,0.0
+562,Chase,Waldon,,73,185.0,75,Orthodox,11.0,2.0,0.0
+563,Andre,Walker,,71,205.0,71,Southpaw,1.0,5.0,0.0
+564,Herschel,Walker,,73,215.0,71,Orthodox,2.0,0.0,0.0
+565,Donny,Walker,Eagle Eye,69,135.0,71,Unknown,15.0,10.0,0.0
+566,Johnny,Walker,,78,205.0,82,Orthodox,20.0,7.0,0.0
+567,Brogan,Walker,The Bear,64,125.0,67,Switch,8.0,3.0,0.0
+568,Ben,Wall,Manimal,70,155.0,71,Orthodox,8.0,7.0,1.0
+569,Crafton,Wallace,Blaze,72,185.0,71,Orthodox,18.0,6.0,1.0
+570,Rodney,Wallace,Shonuff the Master,69,205.0,72,Switch,26.0,15.0,1.0
+572,Randall,Wallace,Braveheart,71,185.0,73,Orthodox,15.0,6.0,0.0
+573,James,Wallace,Jesse,70,155.0,69,Orthodox,5.0,2.0,0.0
+574,Jim,Wallhead,Judo,70,170.0,71,Orthodox,29.0,11.0,0.0
+575,Cory,Walmsley,Hardcore,72,205.0,71,Orthodox,8.0,2.0,0.0
+576,Richard,Walsh,Filthy Rich,72,170.0,73,Orthodox,9.0,5.0,0.0
+577,Patrick,Walsh,The Beast of the East,71,185.0,71,Unknown,10.0,3.0,0.0
+578,Erick,Wanderlei,,73,205.0,71,Orthodox,3.0,3.0,0.0
+579,Dimitiri,Wanderley,,70,205.0,71,Orthodox,5.0,2.0,0.0
+580,Andy,Wang,,66,155.0,71,Orthodox,7.0,8.0,1.0
+581,Sai,Wang,The Fire Kylin,72,170.0,71,Southpaw,20.0,6.0,1.0
+582,Anying,Wang,,72,170.0,71,Orthodox,2.0,1.0,0.0
+584,Rubens,Xavier,Macula,75,220.0,71,Orthodox,5.0,3.0,0.0
+585,Xiao,Long,,68,135.0,66,Orthodox,24.0,7.0,0.0
+586,Xie,Bin,The Stalker,70,145.0,71,Orthodox,8.0,4.0,0.0
+588,Jamie,Yager,The Chosyn 1,73,185.0,71,Orthodox,8.0,4.0,0.0
+589,Eddie,Yagin,The Filipino Phenom,67,145.0,71,Orthodox,16.0,7.0,1.0
+590,Rani,Yahya,,66,135.0,67,Orthodox,28.0,10.0,1.0
+591,Alexander,Yakovlev,Russian Thunder,75,155.0,74,Southpaw,24.0,10.0,1.0
+592,Keiichiro,Yamamiya,,71,185.0,71,Southpaw,45.0,35.0,10.0
+593,Kenichi,Yamamoto,,72,170.0,71,Orthodox,5.0,12.0,2.0
+594,Yoshihisa,Yamamoto,,74,220.0,71,Southpaw,14.0,25.0,1.0
+595,Atsushi,Yamamoto,,66,139.0,71,Orthodox,19.0,11.0,3.0
+596,Norifumi,Yamamoto,Kid,64,135.0,66,Southpaw,18.0,6.0,0.0
+597,Hiroko,Yamanaka,Cat's Eye,71,135.0,71,Unknown,13.0,3.0,0.0
+598,Goiti,Yamauchi,,70,145.0,71,Unknown,21.0,3.0,0.0
+599,Takeshi,Yamazaki,,68,139.0,71,Southpaw,15.0,12.0,3.0
+600,Yan,Xiaonan,,65,115.0,63,Orthodox,16.0,3.0,0.0
+601,Petr,Yan,No Mercy,67,135.0,67,Switch,16.0,5.0,0.0
+602,Yan,Qihui,Queen Kong,63,125.0,62,Orthodox,11.0,4.0,0.0
+603,Adam,Yandiev,Boroda,69,185.0,74,Orthodox,9.0,1.0,0.0
+604,Adrian,Yanez,,67,135.0,70,Orthodox,16.0,3.0,0.0
+605,Dongi,Yang,The Ox,70,185.0,73,Southpaw,13.0,3.0,0.0
+606,Jianping,Yang,,67,145.0,71,Orthodox,11.0,4.0,1.0
+607,Masutatsu,Yano,,69,198.0,71,Orthodox,2.0,4.0,1.0
+608,Emmanuel,Yarborough,,80,770.0,71,Open Stance,1.0,2.0,0.0
+609,Cale,Yarbrough,,73,185.0,71,Orthodox,8.0,3.0,0.0
+610,Tadao,Yasuda,,76,310.0,71,Orthodox,2.0,4.0,0.0
+611,Yoshiaki,Yatsu,,73,165.0,71,Orthodox,0.0,2.0,0.0
+612,Chris,Yee,,69,185.0,71,Unknown,4.0,6.0,0.0
+614,Luke,Zachrich,,74,185.0,74,Orthodox,14.0,4.0,0.0
+615,Anton,Zafir,The Professor,71,170.0,71,Orthodox,7.0,3.0,0.0
+616,Aiemann,Zahabi,,68,135.0,68,Orthodox,9.0,2.0,0.0
+617,Joao,Zaiden,,70,205.0,71,Unknown,10.0,3.0,0.0
+618,Youssef,Zalal,The Moroccan Devil,70,135.0,72,Switch,10.0,5.0,1.0
+619,Elizeu,Zaleski dos Santos,Capoeira,71,170.0,73,Orthodox,23.0,7.0,0.0
+620,Zach,Zane,The Hurricane,67,145.0,69,Southpaw,10.0,7.0,0.0
+621,Roger,Zapata,Viva,71,170.0,71,Southpaw,4.0,2.0,0.0
+622,Marius,Zaromskis,The Whitemare,69,170.0,71,Orthodox,20.0,9.0,0.0
+623,David,Zawada,Sagat,72,170.0,75,Orthodox,17.0,7.0,0.0
+624,Joao,Zeferino,The Brazilian Samurai,71,170.0,71,Orthodox,21.0,9.0,0.0
+625,Daniel,Zellhuber,Golden Boy,73,155.0,77,Switch,12.0,1.0,0.0
+626,Craig,Zellner,Big Z,74,205.0,71,Orthodox,4.0,3.0,0.0
+627,Roman,Zentsov,The Russian Hammer,73,230.0,71,Orthodox,18.0,12.0,0.0
+628,Carlos,Zevallos,,72,205.0,71,Orthodox,3.0,4.0,0.0
+629,Zhang,Tiequan,The Wolf,68,155.0,69,Orthodox,15.0,4.0,0.0
+630,Zhang,Lipeng,The Warrior,71,155.0,71,Southpaw,23.0,9.0,1.0
+631,Zhang,Weili,Magnum,64,115.0,63,Switch,23.0,3.0,0.0
+632,Zhang,Mingyang,Mountain Tiger,74,205.0,75,Orthodox,16.0,6.0,0.0
+633,Daermisi,Zhawupasi,,70,135.0,71,Unknown,6.0,0.0,0.0
+634,Yao,Zhikui,The Conqueror,65,125.0,64,Orthodox,2.0,4.0,0.0
+635,Zhalgas,Zhumagulov,,64,125.0,66,Switch,14.0,8.0,0.0
+636,Fares,Ziam,Smile Killer,73,155.0,75,Orthodox,13.0,4.0,0.0
+637,Mike,Zichelle,,70,205.0,71,Unknown,8.0,4.0,0.0
+638,James,Zikic,The Messenger,74,205.0,71,Orthodox,21.0,10.0,2.0
