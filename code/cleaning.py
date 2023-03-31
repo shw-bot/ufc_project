@@ -76,12 +76,37 @@ fighters['Reach'] = fighters['Reach'].astype(int)
 
 # reformat Weight column
 fighters['Wt.'] = fighters['Wt.'].replace('--', np.nan)
-fighters['Wt.'] = fighters['Wt.'].str.replace(' lbs.', '').astype(float)
-##here, we need to figure out how to replace the NaN, but it would affect their weightclass so...
+fighters['Wt.'] = fighters['Wt.'].str.replace(' lbs.', '', regex=False).astype(float)
 
 # drop other empty rows
 fighters = fighters.dropna()
 
+# create a new column for weight_class
+
+# first, we create a dictionary of weight class ranges based on UFC standards
+weight_classes = {
+    'strawweight': (0, 115),
+    'flyweight': (115, 125),
+    'bantamweight': (125, 135),
+    'featherweight': (135, 145),
+    'lightweight': (145, 155),
+    'welterweight': (155, 170),
+    'middleweight': (170, 185),
+    'light heavyweight': (185, 205),
+    'heavyweight': (205, 265),
+    'super heavyweight': (265, float('inf'))
+}
+
+# create a new column for weight class
+fighters['weight_class'] = ''
+
+# loop through the rows and assign a weight class based on weight
+for index, row in fighters.iterrows():
+    weight = row['Wt.']
+    for wc, range in weight_classes.items():
+        if range[0] <= weight < range[1]:
+            fighters.at[index, 'weight_class'] = wc
+            break
 
 # print the fighters df
 fighters.to_csv(r'C:\Users\cinshalewolfe\Desktop\ufc project\clean_data\fighters_cleaned.csv')
