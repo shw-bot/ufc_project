@@ -4,4 +4,4 @@ BeautifulSoup4
 numpy
 plotly.express
 ipykernel
-
+jupyter notebooks
