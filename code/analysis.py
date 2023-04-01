@@ -8,7 +8,7 @@ Created on Thu Mar 30 14:52:57 2023
 import pandas as pd
 import plotly.express as px
 
-fighters_df = pd.read_csv(r'C:\Users\cinshalewolfe\Desktop\ufc project\clean_data\fighters_cleaned.csv')
+fighters_df = pd.read_csv('clean_data/fighters_cleaned.csv')
 
 # delete useless index column
 fighters_df = fighters_df.iloc[: , 1:]
@@ -53,6 +53,7 @@ weight_grouped_df['Win Percentage'] = round(weight_grouped_df['W'] / weight_grou
 result_cols = ['Win Percentage']
 result_df = weight_grouped_df[['weight_class', 'Stance'] + result_cols].sort_values(['weight_class', 'Stance'])
 
+#create a heatmap
 import plotly.graph_objs as go
 
 pivoted_df = weight_grouped_df.pivot(index='weight_class', columns='Stance', values='Win Percentage')

@@ -9,6 +9,7 @@ import pandas as pd
 import requests
 from bs4 import BeautifulSoup as bs
 
+#soupy time
 url = "http://ufcstats.com/statistics/events/completed?page=all"
 
 r = requests.get(url)
@@ -18,6 +19,7 @@ event_links = soup.find_all("a", {"class": "b-link b-link_style_black"})
 
 fights_dfs = []  # create an empty list to hold data frames
 
+# pull the table data for every event link and create a df of all the tables
 for link in event_links:
     event_url = link["href"]
     
@@ -34,4 +36,5 @@ for link in event_links:
 
 fights_df = pd.concat(fights_dfs, ignore_index=True)  # concatenate all data frames into one
 
-fights_df.to_csv(r'C:\Users\cinshalewolfe\Desktop\ufc project\raw_data\fights.csv', index=False)
+#save to csv for easier data manipulation
+fights_df.to_csv('raw_data/fights.csv', index=False)

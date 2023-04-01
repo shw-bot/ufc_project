@@ -25,7 +25,8 @@ fighters_df = pd.DataFrame()
 for letter in letters:
     url = 'http://ufcstats.com' + letter["href"]
     links.append(url)
-    
+
+# pull table data for each page linked to a letter and create a single df:     
 for link in links:
     r = requests.get(link)
     soup = bs(r.content, 'html.parser')
@@ -34,4 +35,4 @@ for link in links:
     
     fighters_df = pd.concat([fighters_df, df], ignore_index=True)
     
-fighters_df.to_csv(r'C:\Users\cinshalewolfe\Desktop\ufc project\raw_data\fighters.csv', index=False)
+fighters_df.to_csv('raw_data/fighters.csv', index=False)

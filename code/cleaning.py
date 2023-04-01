@@ -7,7 +7,7 @@ Created on Tue Mar 28 17:34:25 2023
 import pandas as pd
 import numpy as np
 
-df = pd.read_csv(r'C:\Users\cinshalewolfe\Desktop\ufc project\raw_data\fights.csv')
+df = pd.read_csv('raw_data/fights.csv')
 
 # create dataframe that separates fighter data
 fights = pd.DataFrame()
@@ -28,13 +28,15 @@ fights['winner'] = np.where(fights['w/l'] == 'win', fights['fighter1'], 'draw')
 fights = fights.drop('w/l', axis=1)
 
 # show the fights df
-fights.to_csv(r'C:\Users\cinshalewolfe\Desktop\ufc project\clean_data\fights_cleaned.csv')
+fights.head()
+
+fights.to_csv('clean_data/fights_cleaned.csv', index=False)
 
 ###
 
 #create a dataframe from the fighters csv file we scraped earlier
 
-fighters = pd.read_csv(r'C:\Users\cinshalewolfe\Desktop\ufc project\raw_data\fighters.csv')
+fighters = pd.read_csv('raw_data/fighters.csv')
 
 #drop empty first row and irrelevant column
 fighters = fighters.drop(fighters.index[0])
@@ -109,5 +111,7 @@ for index, row in fighters.iterrows():
             break
 
 # print the fighters df
-fighters.to_csv(r'C:\Users\cinshalewolfe\Desktop\ufc project\clean_data\fighters_cleaned.csv')
+fighters.head()
+
+fighters.to_csv('clean_data/fighters_cleaned.csv', index=False)
 
