@@ -23,6 +23,8 @@ To run this project, you will need to have Python 3.9 or higher installed on you
 - Click Cell tab and then Run All
 
 # Usage
+
+## Quick note: the website no longer allows webscraping, but the historic data provided in this project, while outdated, can still provide interesting insights
 ## If You Want to Scrape the Most Recent Data
 ### To use the scraper, follow these steps:
 - Open and run fights_to_csv.py
